@@ -10,4 +10,4 @@ git clone git@github.com:tryber/sd-028-a-live-lectures.git
 
 ### Estrutura
 
-Todos os conteúdos dados em aulas estarão no seu respectivo Pull Request!
+Todos os conteúdos dados nas aulas estarão no seu respectivo Pull Request!
