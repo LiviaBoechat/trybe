@@ -658,7 +658,7 @@ div.otraco {
     margin-top: -61px;
     background-color: black;
 }
-article#projetos  {
+article.projetos {
     position: absolute;
     display: flex;
     justify-content: center;
@@ -667,7 +667,7 @@ article#projetos  {
     height: 70px;
     /* background-color: purple;   */
 }
-article#projetos > h1 {
+article.projetos > h1 {
     font-family: var(--fonte-serifada);
     font-size: 3em;
     font-weight: normal;
