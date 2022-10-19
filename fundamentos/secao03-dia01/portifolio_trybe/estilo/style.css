@@ -1,0 +1,31 @@
+@charset "UTF-8";
+
+* {
+    margin: 0px;
+    padding: 0px;
+    background-color: #92634F;
+}
+
+:root {
+    --cor01: #FAFAFA;
+    --cor02: #D4D5CE;
+    --cor03: #83837D;
+    --cor04: #E7E0DB;
+    --cor05: #92634F;
+}
+
+html {
+    overflow-x: hidden;
+    overflow-y: auto;
+    height: 100%;
+}
+
+section#sobre {
+    background-color: var(--cor05);
+}
+
+
+
+
+
+/* <img loading="lazy" class="pp-photo-img wp-image-25213 size-full" src="https://www.cursoemvideo.com/wp-content/uploads/2019/08/guana6.png" alt="guana6" itemprop="image" height="664" width="700" srcset="https://www.cursoemvideo.com/wp-content/uploads/2019/08/guana6.png 700w, https://www.cursoemvideo.com/wp-content/uploads/2019/08/guana6-300x285.png 300w, https://www.cursoemvideo.com/wp-content/uploads/2019/08/guana6-316x300.png 316w, https://www.cursoemvideo.com/wp-content/uploads/2019/08/guana6-600x569.png 600w" sizes="(max-width: 700px) 100vw, 700px" title="guana6"> */
